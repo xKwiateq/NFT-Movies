@@ -5,7 +5,7 @@ import Headerimages from "./Headerimages";
 
 const Header = () => {
   return (
-    <div className="flex justify-around items-center text-white xl:h-[89vh]  2xl:px-32 sm:px-20 px-12 2xl:gap-0 xl:gap-10 gap-24 sm:gap-32 xl:flex-row flex-col pt-16 xl:pt-0">
+    <div className="flex justify-around items-center text-white xl:h-[89vh]  2xl:px-32 sm:px-20 px-12 2xl:gap-0 xl:gap-10 gap-24 sm:gap-32 xl:flex-row flex-col pt-16 pb-20 xl:pb-0 xl:pt-0">
       <div className="flex flex-col justify-center items-start gap-7 ">
         <p className=" tracking-widest text-primary text-xl">
           TRADE NFT SPRING
